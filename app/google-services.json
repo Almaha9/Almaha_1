@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143371961142",
+    "project_id": "almaha1-7d7d7",
+    "storage_bucket": "almaha1-7d7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143371961142:android:9cdead4e4cf9d65c476997",
+        "android_client_info": {
+          "package_name": "com.example.almaha1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsH3gnBB27dKsk2uOqEFHU3x5Sw-wwDhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143371961142:android:be4e5121b59b53b3476997",
+        "android_client_info": {
+          "package_name": "com.example.almaha_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsH3gnBB27dKsk2uOqEFHU3x5Sw-wwDhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
